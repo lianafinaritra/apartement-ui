@@ -1,0 +1,14 @@
+[
+  {
+    "id_category": 1,
+    "name": "appartement"
+  },
+  {
+    "id_category": 2,
+    "name": "maison"
+  },
+  {
+    "id_category": 3,
+    "name": "terrain"
+  }
+]

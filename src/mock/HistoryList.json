@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "13-09-2022",
+    "houseType": "location",
+    "houseCategory": "appartement",
+    "housePrice": 5000000,
+    "userName": "Koto",
+    "usePhoneNumber": "034 40 612 05"
+  },
+  {
+    "id": 2,
+    "date": "14-09-2022",
+    "houseType": "vente",
+    "houseCategory": "terrain",
+    "housePrice": 4000000,
+    "userName": "Jean",
+    "usePhoneNumber": "034 75 924 98"
+  },
+  {
+    "id": 3,
+    "date": "15-09-2022",
+    "houseType": "vente",
+    "houseCategory": "appartement",
+    "housePrice": 10000000,
+    "userName": "Paul",
+    "usePhoneNumber": "034 12 828 15"
+  }
+]
