@@ -10,5 +10,13 @@
   {
     "id_category": 3,
     "name": "terrain"
+  },
+  {
+    "id_category": 4,
+    "name": "lalana"
+  },
+  {
+    "id_category": 5,
+    "name": "lalanabe"
   }
 ]
